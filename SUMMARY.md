@@ -1,7 +1,7 @@
 # Table of contents
 
 * [F8 - Improve and Grow Auditability](README.md)
-* [Insight Sharing](insight-sharing.md)
+* [Auditability Insight Sharing](auditability-insight-sharing.md)
 
 ## Challenge Team
 
