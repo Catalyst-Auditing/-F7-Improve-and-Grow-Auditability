@@ -9,11 +9,11 @@
 * [Challenge Team Members](challenge-team/challenge-team-members.md)
 * [Challenge Team Timetable](challenge-team/challenge-team-timetable.md)
 
-## F8-Auditability-Proposals
+## Proposals
 
-* [Submitted Proposals](f8-auditability-proposals/submitted-proposals.md)
-* [Funded Proposals](f8-auditability-proposals/funded-proposals.md)
+* [Submitted Proposals](proposals/submitted-proposals.md)
+* [Funded Proposals](proposals/funded-proposals.md)
 
 ## Retrospective
 
-* [Page 1](retrospective/page-1.md)
+* [Final perspective](retrospective/final-perspective.md)
