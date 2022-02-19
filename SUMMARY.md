@@ -11,3 +11,4 @@
 ## F8-Auditability-Proposals
 
 * [Submitted Proposals](f8-auditability-proposals/submitted-proposals.md)
+* [Funded Proposals](f8-auditability-proposals/funded-proposals.md)
