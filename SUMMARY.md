@@ -9,11 +9,15 @@
 * [Challenge Team Members](challenge-team/challenge-team-members.md)
 * [Challenge Team Timetable](challenge-team/challenge-team-timetable.md)
 
-## Proposals
+## &#x20;1-Town Hall Presentation&#x20;
 
-* [Submitted Proposals](proposals/submitted-proposals.md)
-* [Funded Proposals](proposals/funded-proposals.md)
+* [Presentation](1-town-hall-presentation/presentation.md)
 
-## Retrospective
+## 2-Proposals
 
-* [Final perspective](retrospective/final-perspective.md)
+* [Submitted Proposals](2-proposals/submitted-proposals.md)
+* [Funded Proposals](2-proposals/funded-proposals.md)
+
+## 3-Retrospective
+
+* [Final perspective](3-retrospective/final-perspective.md)
