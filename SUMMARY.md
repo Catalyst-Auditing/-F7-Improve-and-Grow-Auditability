@@ -22,6 +22,6 @@
 
 * [Final perspective](3-retrospective/final-perspective.md)
 
-## Group 1
+## Insight Sharing
 
-* [Insight Sharing](group-1/insight-sharing.md)
+* [Insight Sharing](insight-sharing/insight-sharing.md)
