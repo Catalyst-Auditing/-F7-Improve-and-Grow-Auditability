@@ -8,5 +8,5 @@ description: Welcome to the F8 - Improve and Grow Auditability Challenge Team
 
 ## Overview
 
-
+The [Fund 8 Improve and Grow Auditability Challenge](https://cardano.ideascale.com/c/campaigns/26447/about) was renewed by Stephen Whitenstall in November 2021.&#x20;
 
