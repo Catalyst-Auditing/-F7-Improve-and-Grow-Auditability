@@ -9,7 +9,7 @@
 | Stephen Whitenstall | Lead                 | Confirmed |
 | Vanessa Cardui      |                      | Confirmed |
 | Jo Allum            | F7 Auditability Lead | Confirmed |
-| Thorsten Pottebaum  |                      | TBA       |
+| Thorsten Pottebaum  |                      | Confirmed |
 | Naveed Urmani       |                      | TBA       |
 | Sebastian Pabon     |                      | TBA       |
 
