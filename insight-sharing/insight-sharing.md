@@ -31,9 +31,7 @@ The goal is to have an interactive, open conversation with everyone. Presenters 
 * Explanation of challenge KPIs&#x20;
 * Overview of previously funded proposals / Success stories (if applicable)
 
-Auditability Insight Sharing Workshop\
-
-
+## Auditability Insight Sharing Workshop
 
 ### Slides
 
