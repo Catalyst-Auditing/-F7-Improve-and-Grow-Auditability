@@ -18,20 +18,20 @@
 
 #### Sent Sunday, 20th February 2022
 
-Hi IOHK Team.&#x20;
+> Hi IOHK Team.&#x20;
 
-I can confirm the following details :&#x20;
+>I can confirm the following details :&#x20;
 
-Team Lead : Stephen Whitenstall&#x20;
+>Team Lead : Stephen Whitenstall&#x20;
 
-Team :&#x20;
+>Team :&#x20;
 
-Vanessa Cardui, Jo Allum, Thorsten Pottebaum, Eric Helms & Naveed Urmani&#x20;
+> Vanessa Cardui, Jo Allum, Thorsten Pottebaum, Eric Helms & Naveed Urmani&#x20;
 
-Further details are available on The F8 - Improve and Grow Auditability Challenge Team GitBook - [https://quality-assurance-dao.gitbook.io/f8-improve-and-grow-auditability/](https://quality-assurance-dao.gitbook.io/f8-improve-and-grow-auditability/)
+> Further details are available on The F8 - Improve and Grow Auditability Challenge Team GitBook - [https://quality-assurance-dao.gitbook.io/f8-improve-and-grow-auditability/](https://quality-assurance-dao.gitbook.io/f8-improve-and-grow-auditability/)
 
-&#x20;Thank You&#x20;
+> &#x20;Thank You&#x20;
 
-Stephen Whitenstall&#x20;
+> Stephen Whitenstall&#x20;
 
-[https://quality-assurance-dao.github.io/](https://quality-assurance-dao.github.io)
+> [https://quality-assurance-dao.github.io/](https://quality-assurance-dao.github.io)
