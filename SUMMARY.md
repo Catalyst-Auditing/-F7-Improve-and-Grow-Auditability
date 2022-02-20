@@ -1,7 +1,6 @@
 # Table of contents
 
 * [F8 - Improve and Grow Auditability](README.md)
-* [Auditability Insight Sharing](auditability-insight-sharing.md)
 
 ## Challenge Team
 
@@ -9,7 +8,11 @@
 * [Challenge Team Members](challenge-team/challenge-team-members.md)
 * [Challenge Team Timetable](challenge-team/challenge-team-timetable.md)
 
-## &#x20;1-Town Hall Presentation&#x20;
+## Insight Sharing
+
+* [Insight Sharing](insight-sharing/insight-sharing.md)
+
+## 1-Town Hall Presentation
 
 * [Presentation](1-town-hall-presentation/presentation.md)
 
@@ -21,7 +24,3 @@
 ## 3-Retrospective
 
 * [Final perspective](3-retrospective/final-perspective.md)
-
-## Insight Sharing
-
-* [Insight Sharing](insight-sharing/insight-sharing.md)
