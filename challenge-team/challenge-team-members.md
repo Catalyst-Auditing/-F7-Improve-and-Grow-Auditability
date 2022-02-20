@@ -2,7 +2,7 @@
 
 ## Summary
 
-
+### Initial Applicants
 
 | Name                | Role                 | Status            |
 | ------------------- | -------------------- | ----------------- |
