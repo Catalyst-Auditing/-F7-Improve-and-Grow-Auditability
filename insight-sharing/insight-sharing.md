@@ -39,7 +39,9 @@ placeholder
 
 ### Presentation of the challenge
 
-The Improve & Grow Auditability Challenge was first proposed in April 2021 by Rodrigo Pacini in Fund 5 with his [F5: Fund 6 & 7 challenge setting Improve and Grow Auditability](https://cardano.ideascale.com/c/idea/352101)
+The Improve & Grow Auditability Challenge was first proposed in April 2021 by Rodrigo Pacini in Fund 5 with his [F5: Fund 6 & 7 challenge setting Improve and Grow Auditability](https://cardano.ideascale.com/c/idea/352101).
+
+It was [successfully voted for in August 2021](https://catalyst-swarm.gitbook.io/catalyst-swarm-genesis/august-2021/fund-5-voting-results-august-2021#fund-6-challenge-setting) with 1800 Wallets, 164,854,742 ADA FOR & 144 Wallets, 41,493,373 AGAINST.
 
 
 
