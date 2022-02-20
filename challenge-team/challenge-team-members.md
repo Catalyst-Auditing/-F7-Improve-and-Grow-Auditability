@@ -11,6 +11,6 @@
 | Jo Allum            | F7 Auditability Lead | Confirmed         |
 | Thorsten Pottebaum  |                      | Confirmed         |
 | Eric Helms          |                      | Confirmed         |
-| Naveed Urmani       |                      | TBA               |
+| Naveed Urmani       |                      | Confirmed         |
 | Sebastian Pabon     |                      | Other Commitments |
 
