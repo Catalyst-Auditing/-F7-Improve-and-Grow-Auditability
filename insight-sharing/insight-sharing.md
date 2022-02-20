@@ -39,3 +39,7 @@ placeholder
 
 ### Presentation of the challenge
 
+The Improve & Grow Auditability Challenge was first proposed in Fund 5 Challenge setting
+
+
+
