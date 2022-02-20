@@ -39,7 +39,7 @@ placeholder
 
 ### Presentation of the challenge
 
-The Improve & Grow Auditability Challenge was first proposed in Fund 5 Challenge setting
+The Improve & Grow Auditability Challenge was first proposed in April 2021 by Rodrigo Pacini in Fund 5 with his [F5: Fund 6 & 7 challenge setting Improve and Grow Auditability](https://cardano.ideascale.com/c/idea/352101)
 
 
 
