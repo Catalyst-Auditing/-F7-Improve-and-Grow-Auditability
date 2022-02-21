@@ -235,3 +235,27 @@ Tools & processes that enable community auditing of proposals
 Research, Education & Communication to support the community in auditing
 
 Innovation in governance to achieve auditing and transparency
+
+### Community Advisor perspective
+
+![](<../.gitbook/assets/2022-02-21 (23).png>)
+
+What topics should a Community Advisor pay attention to in their assessments ?
+
+#### Impact – What are the Key impacts expected of the Auditability proposal ?
+
+The key impact is enabling the auditing of proposals & the reform of any associated processes. The Campaign brief prioritizes the Audit of Funded Proposal delivery and verifying each Return on Intention. Auditability proposals that support a transfer of reporting from IOHK & seek transparency in the use of Cardano's treasury resources further supplement and build on this priority.
+
+#### Feasibility – Is it likely the Auditability solution be implemented
+
+The Community Advisor should assess the capability of the Auditability proposer to implement their solution, innovation or experiment. This would typically include checking evidence of experience, a supporting team, a concise & relevant budget, a realistic timetable or roadmap that effectively communicates a plan of implementation, a description of any required fixed resources, an explanation of any technical aspects or specialist language and that risks have been identified with a mitigation strategy.
+
+#### Auditability – Does the Auditability solution audit itself ?
+
+An Auditability proposal should demonstrate a thorough understanding of how it can be audited itself. Therefore the proposal should detail how its progress and success will be reported, tracked and effectively communicated to the Cardano community. As a minimum this should cover
+
+A roadmap with milestones and a time horizon for achievement.
+
+Metrics/KPIs that define the success of the proposal
+
+How the roadmap & metrics relate to addressing and solving the targeted problem.
