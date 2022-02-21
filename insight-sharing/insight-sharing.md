@@ -37,7 +37,27 @@ The goal is to have an interactive, open conversation with everyone. Presenters 
 
 ![](../.gitbook/assets/2022-02-21.png)
 
-placeholder
+### What are Insight Sharing Workshops?
+
+![](<../.gitbook/assets/2022-02-21 (11).png>)
+
+The Insight Sharing Workshop Series is a new way of brainstorming about Catalyst Challenges
+
+Aiming to bring together :
+
+Proposers
+
+Community advisors
+
+Challenge teams
+
+Domain experts&#x20;
+
+into a discussion about specific challenges and how to make the best out of it.
+
+[F7: Community Events](https://cardano.ideascale.com/c/campaigns/26234/stage/all/ideas/unspecified)
+
+The Series is the product of an "[Insight Sharing Workshops - TCS](https://cardano.ideascale.com/c/idea/384064)" proposal submitted in the Fund 7 [Community Events Challenge](https://cardano.ideascale.com/c/campaigns/26234/about) and successfully voted for in February 2022.
 
 ### Presentation of the challenge
 
