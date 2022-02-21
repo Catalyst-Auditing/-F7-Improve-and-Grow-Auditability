@@ -56,6 +56,24 @@ into a discussion about specific challenges and how to make the best out of it.
 
 The Series is the product of an "[Insight Sharing Workshops - TCS](https://cardano.ideascale.com/c/idea/384064)" proposal submitted in the Fund 7 [Community Events Challenge](https://cardano.ideascale.com/c/campaigns/26234/about) and successfully voted for in February 2022.
 
+### What this Insight Sharing Workshops will cover
+
+![](<../.gitbook/assets/2022-02-21 (12).png>)
+
+What is Insight Sharing
+
+A Summary of the Challenge
+
+The Challenge Brief
+
+Key Metrics to measure
+
+What has been funded ?
+
+The Proposer perspective
+
+The Community Advisor perspective
+
 ### Presentation of the challenge
 
 The Improve & Grow Auditability Challenge was first proposed in April 2021 by Rodrigo Pacini in Fund 5 with his [F5: Fund 6 & 7 challenge setting Improve and Grow Auditability](https://cardano.ideascale.com/c/idea/352101).
