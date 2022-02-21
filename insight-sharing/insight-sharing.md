@@ -158,3 +158,28 @@ Please note that Auditability may include Auditing, Quality Assurance and Oversi
 
 ![](<../.gitbook/assets/2022-02-21 (19).png>)
 
+**Distributed Auditability** – Identify common community standards. Build consistent evaluation tools. Automate funded proposal reporting.
+
+https://cardano.ideascale.com/c/idea/366707
+
+**Treasury & Catalyst Proposal API** - A non-gated, filterable repository of all proposals. Funded projects are followed, measured & updated in a public space. API for toolmakers
+
+https://cardano.ideascale.com/c/idea/366965
+
+**Smart Contract Audit Token SCAT DAO** - Incorporate catalyst projects into the audit scope of our decentralized community driven organization and share results through SCATDAO.com
+
+https://cardano.ideascale.com/c/idea/367602
+
+**PACE: Proposal progress updates** - Progress update form
+
+[https://cardano.ideascale.com/c/idea/367266](https://cardano.ideascale.com/c/idea/367266)
+
+Import existing updates and provide a progress update form for proposers to use where the updates will be attached to their proposal data
+
+**Auditing African Proposals, by WADA** - Secondary support layer in the auditing of African proposals
+
+https://cardano.ideascale.com/c/idea/366865
+
+**PACE: Proposal media content** - tool to attach media content to a given proposal
+
+https://cardano.ideascale.com/c/idea/367365
