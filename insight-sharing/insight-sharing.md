@@ -95,3 +95,17 @@ The **Improve & Grow Auditability Challenge** was first proposed in April 2021 b
 It was [successfully voted for in August 2021](https://catalyst-swarm.gitbook.io/catalyst-swarm-genesis/august-2021/fund-5-voting-results-august-2021#fund-6-challenge-setting) with 1800 Wallets, 164,854,742 ADA FOR & 144 Wallets, 41,493,373 AGAINST.
 
 The Challenge has been renewed through Funds 6, 7 and 8.
+
+### Auditability Challenge Summary
+
+![](<../.gitbook/assets/2022-02-21 (16).png>)
+
+The Challenge Summary asked
+
+How to make the auditing process of funded proposals
+
+Efficient – to address concerns about reporting & auditing overhead
+
+Distributed – to use the Cadano blockchain technology to innovate auditability
+
+And Transparent – to deliver solutions which provide accountability & to allow open source access
