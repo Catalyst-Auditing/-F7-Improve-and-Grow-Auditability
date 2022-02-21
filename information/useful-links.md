@@ -1,5 +1,11 @@
 # Useful Links
 
+## Project Catalyst - Funded Projects Reporting (public MVP)
+
+[link](https://docs.google.com/spreadsheets/d/1iEO90DbhcW0fk9p3vgzgevqD6WWaO9qt7oX7ZgBeW78/edit?usp=sharing)
+
+{% embed url="https://docs.google.com/spreadsheets/d/1iEO90DbhcW0fk9p3vgzgevqD6WWaO9qt7oX7ZgBeW78/edit?usp=sharing" %}
+
 ## Fund8 Challenge Teams (public)
 
 [link](https://docs.google.com/spreadsheets/d/1iEO90DbhcW0fk9p3vgzgevqD6WWaO9qt7oX7ZgBeW78/edit?usp=sharing)
