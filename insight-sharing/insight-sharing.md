@@ -182,4 +182,47 @@ https://cardano.ideascale.com/c/idea/366865
 
 **PACE: Proposal media content** - tool to attach media content to a given proposal
 
-https://cardano.ideascale.com/c/idea/367365
+[https://cardano.ideascale.com/c/idea/367365](https://cardano.ideascale.com/c/idea/367365)
+
+### What got funded in F7 ?
+
+
+
+
+
+**DAO-NET: Auditor DAO** – an instance of a DAO smart contract
+
+Create a DAO, with sustained funding for auditors, to audit Project Catalyst or DAO Net funded projects as directed by the community.
+
+[https://cardano.ideascale.com/c/idea/381404](https://cardano.ideascale.com/c/idea/381404)
+
+**Community Governance Oversight** - Survey, report & facilitate retrospectives to improve our governance processes.
+
+[https://cardano.ideascale.com/c/idea/383517](https://cardano.ideascale.com/c/idea/383517)
+
+**Progress and KPI reporting tool** - Create a reporting tool for progress and KPI reports that can be used as an alternative reporting process with full open access data
+
+[https://cardano.ideascale.com/c/idea/382425](https://cardano.ideascale.com/c/idea/382425)
+
+**Impact Measurements Tool - research**
+
+Researching the basis of an Impact Measurements Tool to help define KPIs, measure and report them, with a focus on SDGs impact.
+
+[https://cardano.ideascale.com/c/idea/383628](https://cardano.ideascale.com/c/idea/383628)
+
+**2MIN REVIEW Integrated Platform** - Building an integrated platform and mobile application for accessing Catalyst's contents which are filtered, analyzed by 2Min Review
+
+[https://cardano.ideascale.com/c/idea/384807](https://cardano.ideascale.com/c/idea/384807)
+
+**A portal to audit and release funds** - Proposal is split into work blocks with req. ADA, once finished community/smart contract confirms if next funding is unlocked.
+
+[https://cardano.ideascale.com/c/idea/385201](https://cardano.ideascale.com/c/idea/385201)
+
+**Catalyst Audit Circle** - Audit Governance - Establish a Catalyst auditing circle to guide improvements needed to maximise each funding rounds return on intention.
+
+[https://cardano.ideascale.com/c/idea/381354](https://cardano.ideascale.com/c/idea/381354)
+
+**Translation for Proposal API DATA** - Add a step to the current proposal api to translate data using machine learning. Set aside a fund to incentivize human validators.
+
+https://cardano.ideascale.com/c/idea/383962
+
