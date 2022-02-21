@@ -224,3 +224,14 @@ Researching the basis of an Impact Measurements Tool to help define KPIs, measur
 
 https://cardano.ideascale.com/c/idea/383962
 
+### Proposer perspective
+
+![](<../.gitbook/assets/2022-02-21 (21).png>)
+
+What topics should a proposer focus on ?
+
+Tools & processes that enable community auditing of proposals
+
+Research, Education & Communication to support the community in auditing
+
+Innovation in governance to achieve auditing and transparency
