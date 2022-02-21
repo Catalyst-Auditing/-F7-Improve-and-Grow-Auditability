@@ -26,12 +26,12 @@ The goal is to have an interactive, open conversation with everyone. Presenters 
 
 ### Workshop topics (preferable):
 
-* Slides
-* Presentation of the challenge
-* Proposer perspective (What topics should cover/focus a proposer)
-* CA perspective (What topics should cover/focus on a CA in the assessments)
-* Explanation of challenge KPIs&#x20;
-* Overview of previously funded proposals / Success stories (if applicable)
+- Slides
+- Presentation of the challenge
+- Proposer perspective (What topics should cover/focus a proposer)
+- CA perspective (What topics should cover/focus on a CA in the assessments)
+- Explanation of challenge KPIs&#x20;
+- Overview of previously funded proposals / Success stories (if applicable)
 
 ## Auditability Insight Sharing Workshop
 
@@ -47,13 +47,10 @@ The Insight Sharing Workshop Series is a new way of brainstorming about Catalyst
 
 Aiming to bring together :
 
-Proposers
-
-Community advisors
-
-Challenge teams
-
-Domain experts&#x20;
+- Proposers
+- Community advisors
+- Challenge teams
+- Domain experts&#x20;
 
 into a discussion about specific challenges and how to make the best out of it.
 
