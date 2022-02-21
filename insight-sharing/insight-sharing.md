@@ -86,6 +86,8 @@ How can we improve the challenge brief ?
 
 What wild thoughts do you have about how to best address this challenge ?
 
+Hopefully this Insight Sharing Workshop will provide you with food for thought to comment in the Insight Sharing Phase.
+
 ### The Improve & Grow Auditability Challenge
 
 ![](<../.gitbook/assets/2022-02-21 (14).png>)
