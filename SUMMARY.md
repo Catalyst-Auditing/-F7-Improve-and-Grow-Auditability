@@ -24,3 +24,7 @@
 ## 3-Retrospective
 
 * [Final perspective](3-retrospective/final-perspective.md)
+
+## information
+
+* [Useful Links](information/useful-links.md)
