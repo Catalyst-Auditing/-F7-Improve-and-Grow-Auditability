@@ -186,9 +186,7 @@ https://cardano.ideascale.com/c/idea/366865
 
 ### What got funded in F7 ?
 
-
-
-
+![](<../.gitbook/assets/2022-02-21 (20).png>)
 
 **DAO-NET: Auditor DAO** – an instance of a DAO smart contract
 
