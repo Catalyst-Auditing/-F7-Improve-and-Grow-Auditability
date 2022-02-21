@@ -96,6 +96,8 @@ It was [successfully voted for in August 2021](https://catalyst-swarm.gitbook.io
 
 The Challenge has been renewed through Funds 6, 7 and 8.
 
+This presentation addresses the [Fund 8 - Improve and Grow Auditability Challenge](https://cardano.ideascale.com/c/campaigns/26447/about)
+
 ### Challenge Summary
 
 ![](<../.gitbook/assets/2022-02-21 (16).png>)
