@@ -261,3 +261,15 @@ A roadmap with milestones and a time horizon for achievement.
 Metrics/KPIs that define the success of the proposal
 
 How the roadmap & metrics relate to addressing and solving the targeted problem.
+
+### Auditability – Thank You
+
+Questions & Answers
+
+Discussion
+
+Links
+
+[F8: Improve and Grow Auditability - ](https://cardano.ideascale.com/c/campaigns/26447/about)[Campaign Brief](https://cardano.ideascale.com/c/campaigns/26447/about)
+
+[Insight Sharing Workshops Proposal](https://cardano.ideascale.com/c/idea/384064)
