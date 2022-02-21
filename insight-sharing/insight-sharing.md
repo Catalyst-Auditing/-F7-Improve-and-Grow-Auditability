@@ -136,7 +136,21 @@ It's important that the funded proposals are evaluated to see if they are delive
 
 Several projects evaluating funded proposals, providing reports, articles and metrics on the development and implementation of the projects.
 
+### Auditability - Key Metrics to measure
 
+![](<../.gitbook/assets/2022-02-21 (18).png>)
 
+#### **1) Number of funded proposals audited**
 
+#### 2) Sensitivity to different –Challenges
+
+It is notable that emphasis is given to consideration of auditing and reporting in different challenges. Therefore success metrics and assessment approaches need to be thought out in relation to each challenge individually.
+
+#### 3) Number of reports, articles and videos/podcasts on Audit indictors
+
+Such as Performance, Achievements, Financials, Number of onboarded developers. Number of commits in funded proposal repositories (Github),Indicators of: transactions, volume and unique wallets interacting with dapps, Number of smart contracts audited & Social media engagement indicators.
+
+The emphasis here is on documentation, communication, and social media. How to tell the qualitative story as well as quantifying a proposal.
+
+Please note that Auditability may include Auditing, Quality Assurance and Oversight&#x20;
 
