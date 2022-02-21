@@ -60,19 +60,13 @@ The Series is the product of an "[Insight Sharing Workshops - TCS](https://carda
 
 ![](<../.gitbook/assets/2022-02-21 (12).png>)
 
-What is Insight Sharing
-
-A Summary of the Challenge
-
-The Challenge Brief
-
-Key Metrics to measure
-
-What has been funded ?
-
-The Proposer perspective
-
-The Community Advisor perspective
+- What is Insight Sharing
+- A Summary of the Challenge
+- The Challenge Brief
+- Key Metrics to measure
+- What has been funded ?
+- The Proposer perspective
+- The Community Advisor perspective
 
 ### What is Insight Sharing ?
 
@@ -80,11 +74,9 @@ The Community Advisor perspective
 
 The Insight Sharing phase of each Catalyst Fund provides an opportunity to fill in your unique perspective on a challenge :
 
-What gaps do you see in how this challenge is currently addressed ?
-
-How can we improve the challenge brief ?
-
-What wild thoughts do you have about how to best address this challenge ?
+- What gaps do you see in how this challenge is currently addressed ?
+- How can we improve the challenge brief ?
+- What wild thoughts do you have about how to best address this challenge ?
 
 Hopefully this Insight Sharing Workshop will provide you with food for thought to comment in the Insight Sharing Phase.
 
@@ -108,11 +100,9 @@ The Challenge Summary asked
 
 How to make the auditing process of funded proposals
 
-**Efficient** – to address concerns about reporting & auditing overhead
-
-**Distributed** – to use the Cadano blockchain technology to innovate auditability
-
-And **Transparent** – to deliver solutions which provide accountability & to allow open source access
+- **Efficient** – to address concerns about reporting & auditing overhead
+- **Distributed** – to use the Cadano blockchain technology to innovate auditability
+- And **Transparent** – to deliver solutions which provide accountability & to allow open source access
 
 ### Challenge Brief
 
@@ -156,7 +146,7 @@ Such as Performance, Achievements, Financials, Number of onboarded developers. N
 
 The emphasis here is on documentation, communication, and social media. How to tell the qualitative story as well as quantifying a proposal.
 
-Please note that Auditability may include Auditing, Quality Assurance and Oversight&#x20;
+> Please note that Auditability may include Auditing, Quality Assurance and Oversight&#x20;
 
 ### What got funded in F6 ?
 
@@ -234,11 +224,9 @@ https://cardano.ideascale.com/c/idea/383962
 
 What topics should a proposer focus on ?
 
-Tools & processes that enable community auditing of proposals
-
-Research, Education & Communication to support the community in auditing
-
-Innovation in governance to achieve auditing and transparency
+- Tools & processes that enable community auditing of proposals
+- Research, Education & Communication to support the community in auditing
+- Innovation in governance to achieve auditing and transparency
 
 ### Community Advisor perspective
 
@@ -268,12 +256,8 @@ How the roadmap & metrics relate to addressing and solving the targeted problem.
 
 ![](<../.gitbook/assets/2022-02-21 (24).png>)
 
-Questions & Answers
-
-Discussion
-
-Links
-
-[F8: Improve and Grow Auditability - ](https://cardano.ideascale.com/c/campaigns/26447/about)[Campaign Brief](https://cardano.ideascale.com/c/campaigns/26447/about)
-
-[Insight Sharing Workshops Proposal](https://cardano.ideascale.com/c/idea/384064)
+- Questions & Answers
+- Discussion
+- Links
+- [F8: Improve and Grow Auditability - ](https://cardano.ideascale.com/c/campaigns/26447/about)[Campaign Brief](https://cardano.ideascale.com/c/campaigns/26447/about)
+- [Insight Sharing Workshops Proposal](https://cardano.ideascale.com/c/idea/384064)
