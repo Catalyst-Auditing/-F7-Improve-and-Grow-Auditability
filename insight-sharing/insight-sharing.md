@@ -146,7 +146,7 @@ Several projects evaluating funded proposals, providing reports, articles and me
 
 It is notable that emphasis is given to consideration of auditing and reporting in different challenges. Therefore success metrics and assessment approaches need to be thought out in relation to each challenge individually.
 
-#### 3) Number of reports, articles and videos/podcasts on Audit indictors
+#### 3) Number of reports, articles and videos/podcasts on Audit indicators
 
 Such as Performance, Achievements, Financials, Number of onboarded developers. Number of commits in funded proposal repositories (Github),Indicators of: transactions, volume and unique wallets interacting with dapps, Number of smart contracts audited & Social media engagement indicators.
 
@@ -155,3 +155,6 @@ The emphasis here is on documentation, communication, and social media. How to t
 Please note that Auditability may include Auditing, Quality Assurance and Oversight&#x20;
 
 ### What got funded in F6 ?
+
+![](<../.gitbook/assets/2022-02-21 (19).png>)
+
