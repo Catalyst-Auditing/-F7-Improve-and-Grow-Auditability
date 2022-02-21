@@ -264,6 +264,8 @@ How the roadmap & metrics relate to addressing and solving the targeted problem.
 
 ### Auditability – Thank You
 
+![](<../.gitbook/assets/2022-02-21 (24).png>)
+
 Questions & Answers
 
 Discussion
