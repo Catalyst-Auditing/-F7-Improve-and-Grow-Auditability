@@ -26,12 +26,12 @@ The goal is to have an interactive, open conversation with everyone. Presenters 
 
 ### Workshop topics (preferable):
 
-- Slides
-- Presentation of the challenge
-- Proposer perspective (What topics should cover/focus a proposer)
-- CA perspective (What topics should cover/focus on a CA in the assessments)
-- Explanation of challenge KPIs&#x20;
-- Overview of previously funded proposals / Success stories (if applicable)
+* Slides
+* Presentation of the challenge
+* Proposer perspective (What topics should cover/focus a proposer)
+* CA perspective (What topics should cover/focus on a CA in the assessments)
+* Explanation of challenge KPIs
+* Overview of previously funded proposals / Success stories (if applicable)
 
 ## Auditability Insight Sharing Workshop
 
@@ -47,14 +47,12 @@ The Insight Sharing Workshop Series is a new way of brainstorming about Catalyst
 
 Aiming to bring together :
 
-- Proposers
-- Community advisors
-- Challenge teams
-- Domain experts&#x20;
+* Proposers
+* Community advisors
+* Challenge teams
+* Domain experts
 
 into a discussion about specific challenges and how to make the best out of it.
-
-[F7: Community Events](https://cardano.ideascale.com/c/campaigns/26234/stage/all/ideas/unspecified)
 
 The Series is the product of an "[Insight Sharing Workshops - TCS](https://cardano.ideascale.com/c/idea/384064)" proposal submitted in the Fund 7 [Community Events Challenge](https://cardano.ideascale.com/c/campaigns/26234/about) and successfully voted for in February 2022.
 
@@ -63,6 +61,3 @@ The Series is the product of an "[Insight Sharing Workshops - TCS](https://carda
 The Improve & Grow Auditability Challenge was first proposed in April 2021 by Rodrigo Pacini in Fund 5 with his [F5: Fund 6 & 7 challenge setting Improve and Grow Auditability](https://cardano.ideascale.com/c/idea/352101).
 
 It was [successfully voted for in August 2021](https://catalyst-swarm.gitbook.io/catalyst-swarm-genesis/august-2021/fund-5-voting-results-august-2021#fund-6-challenge-setting) with 1800 Wallets, 164,854,742 ADA FOR & 144 Wallets, 41,493,373 AGAINST.
-
-
-
