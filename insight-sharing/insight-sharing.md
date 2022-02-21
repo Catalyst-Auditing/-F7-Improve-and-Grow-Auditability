@@ -35,7 +35,7 @@ The goal is to have an interactive, open conversation with everyone. Presenters 
 
 ## Auditability Insight Sharing Workshop
 
-### Slides
+![](../.gitbook/assets/2022-02-21.png)
 
 placeholder
 
