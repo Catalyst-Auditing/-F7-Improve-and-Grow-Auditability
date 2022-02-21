@@ -35,6 +35,8 @@ The goal is to have an interactive, open conversation with everyone. Presenters 
 
 ## Auditability Insight Sharing Workshop
 
+#### Monday, 21st February 2022
+
 ![](../.gitbook/assets/2022-02-21.png)
 
 ### What are Insight Sharing Workshops?
