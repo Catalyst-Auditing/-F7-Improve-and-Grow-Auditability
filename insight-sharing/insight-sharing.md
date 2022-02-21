@@ -96,7 +96,7 @@ It was [successfully voted for in August 2021](https://catalyst-swarm.gitbook.io
 
 The Challenge has been renewed through Funds 6, 7 and 8.
 
-### Auditability Challenge Summary
+### Challenge Summary
 
 ![](<../.gitbook/assets/2022-02-21 (16).png>)
 
@@ -110,7 +110,7 @@ How to make the auditing process of funded proposals
 
 And **Transparent** – to deliver solutions which provide accountability & to allow open source access
 
-### Auditability Challenge Brief
+### Challenge Brief
 
 ![](<../.gitbook/assets/2022-02-21 (17).png>)
 
@@ -136,7 +136,7 @@ It's important that the funded proposals are evaluated to see if they are delive
 
 Several projects evaluating funded proposals, providing reports, articles and metrics on the development and implementation of the projects.
 
-### Auditability - Key Metrics to measure
+### Key Metrics to measure
 
 ![](<../.gitbook/assets/2022-02-21 (18).png>)
 
@@ -154,3 +154,4 @@ The emphasis here is on documentation, communication, and social media. How to t
 
 Please note that Auditability may include Auditing, Quality Assurance and Oversight&#x20;
 
+### What got funded in F6 ?
