@@ -45,3 +45,23 @@ Several projects evaluating funded proposals, providing reports, articles and me
 ## Further Information
 
 ![](<../.gitbook/assets/2022-02-22 (4).png>)
+
+### Ideascale Link :&#x20;
+
+https://cardano.ideascale.com/c/campaigns/26447/about
+
+### Fund 8 amount
+
+$200,000
+
+### Challenge Team GitBook :
+
+[https://quality-assurance-dao.gitbook.io/f8-improve-and-grow-auditability/](https://quality-assurance-dao.gitbook.io/f8-improve-and-grow-auditability/)
+
+### Telegram Group
+
+{% embed url="https://t.me/Auditability" %}
+
+### Auditability Town Hall Slides
+
+{% embed url="https://docs.google.com/presentation/d/1AYpZWaArOUNfqWSK1H3rC4GgOEN_GOOqQXGRmdTrheQ/edit?usp=sharing" %}
