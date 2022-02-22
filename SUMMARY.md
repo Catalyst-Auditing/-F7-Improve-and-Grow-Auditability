@@ -14,7 +14,7 @@
 
 ## 1-Town Hall Presentation
 
-* [Presentation](1-town-hall-presentation/presentation.md)
+* [Town Hall Presentation](1-town-hall-presentation/presentation.md)
 
 ## 2-Proposals
 
