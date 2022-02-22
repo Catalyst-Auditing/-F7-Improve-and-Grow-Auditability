@@ -36,7 +36,13 @@ The Auditability challenge aims to ensure transparency in the use of Cardano's t
 
 ![](<../.gitbook/assets/2022-02-22 (3).png>)
 
+### Why is it important?
 
+It's important that the funded proposals are evaluated to see if they are delivering what was established in their mission..
+
+### What does success look like?
+
+Several projects evaluating funded proposals, providing reports, articles and metrics on the development and implementation of the projects.
 
 ## Further Information
 
