@@ -8,11 +8,11 @@
 
 How to make the auditing process of funded proposals
 
-Efficient – to address concerns about reporting & auditing overhead
+**Efficient** – to address concerns about reporting & auditing overhead
 
-Distributed – to use the Cadano blockchain technology to innovate auditability
+**Distributed** – to use the Cardano blockchain technology to innovate auditability
 
-And Transparent – to deliver solutions which provide accountability & to allow open-source access
+And **Transparent** – to deliver solutions which provide accountability & to allow open-source access
 
 ## Challenge Brief
 
