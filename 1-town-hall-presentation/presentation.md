@@ -6,6 +6,14 @@
 
 ![](<../.gitbook/assets/2022-02-22 (1).png>)
 
+How to make the auditing process of funded proposals
+
+Efficient – to address concerns about reporting & auditing overhead
+
+Distributed – to use the Cadano blockchain technology to innovate auditability
+
+And Transparent – to deliver solutions which provide accountability & to allow open-source access
+
 ## Challenge Brief
 
 ![](<../.gitbook/assets/2022-02-22 (2).png>)
