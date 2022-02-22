@@ -20,15 +20,15 @@ And **Transparent** – to deliver solutions which provide accountability & to a
 
 The Challenge Brief addresses three main concerns :
 
-**1) Audit of Funded Proposal delivery and Return on Intention**
+### **1) Audit of Funded Proposal delivery and Return on Intention**
 
 When Fund7 happens we will be close to 300 funded proposals. It is extremely important that these proposals are evaluated/audited to see if they are delivering and if the Return on Intention is being in line with what has been established initially.
 
-**2) Supporting transfer of reporting from IOHK**
+### **2) Supporting transfer of reporting from IOHK**
 
 Currently, IOG is in charge of monitoring the development of these funded proposals, but when there are hundreds of funded proposals this will be an overwhelming work for IOG. So proposals that support a transfer of reporting from IOHK are a priority.
 
-**3) Transparency in the use of Cardano's treasury resources**
+### **3) Transparency in the use of Cardano's treasury resources**
 
 The Auditability challenge aims to ensure transparency in the use of Cardano's treasury resources, which will allow the Cardano community to have more information on the development of funded proposals through a checks and balances system.
 
