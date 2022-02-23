@@ -1,3 +1,0 @@
-# Insights Shared
-
-Insights Shared

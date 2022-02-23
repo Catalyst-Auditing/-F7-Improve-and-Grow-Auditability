@@ -11,6 +11,7 @@
 ## Insight Sharing
 
 * [Insight Sharing](insight-sharing/insight-sharing.md)
+* [Insights Shared](insight-sharing/insights-shared.md)
 
 ## 1-Town Hall Presentation
 
@@ -28,7 +29,3 @@
 ## information
 
 * [Useful Links](information/useful-links.md)
-
-***
-
-* [Insights Shared](insights-shared.md)
