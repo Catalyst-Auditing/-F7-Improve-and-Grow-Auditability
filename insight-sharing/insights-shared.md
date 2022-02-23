@@ -1,6 +1,6 @@
 # Insights Shared
 
-The following insights were shared in the F8 - Improve and Grow Auditability Challenge&#x20;
+The following ideas were shared in the F8 - Improve and Grow Auditability Challenge Insight Sharing Phase.&#x20;
 
 ## Insight Sharing Workshop
 
