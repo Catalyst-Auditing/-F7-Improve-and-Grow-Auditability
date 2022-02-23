@@ -28,3 +28,7 @@
 ## information
 
 * [Useful Links](information/useful-links.md)
+
+***
+
+* [Insights Shared](insights-shared.md)
