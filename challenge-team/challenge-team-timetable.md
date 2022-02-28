@@ -36,5 +36,14 @@ How would we like to support any proposal submissions in the F8 Auditability Cha
 
 ### On boarding Fund 8 Auditability Proposers
 
+## September 2022
+
+### ROI Retrospective (Post Execution)
+
+* Keep in touch with your challenge cohort as they deliver on their proposals.
+* After three months, reflect on the achievements of your challenge cohort
+* Deliver a final perspective on return on intention.
+* Your assessment will help determine how funds are allocated in future rounds
+
 
 
