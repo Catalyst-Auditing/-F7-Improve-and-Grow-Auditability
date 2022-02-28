@@ -12,6 +12,8 @@ See [https://quality-assurance-dao.gitbook.io/f8-improve-and-grow-auditability/c
 
 ## March 2022
 
+### March 1st, 1600 to 1700 UTC
+
 ### Meeting - Submitted Proposals
 
 
