@@ -32,6 +32,8 @@ How would we like to support any proposal submissions in the F8 Auditability Cha
 
 ## April 2022
 
+### Fund 9 Auditability Challenge Team (if voted)
+
 ## May 2022
 
 ### On boarding Fund 8 Auditability Proposers
