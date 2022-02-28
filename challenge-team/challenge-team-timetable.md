@@ -28,6 +28,8 @@ See [https://quality-assurance-dao.gitbook.io/f8-improve-and-grow-auditability/c
 
 ### Meeting - Submitted Proposals
 
+How would we like to support any proposal submissions in the F8 Auditability Challenge ?
+
 ## April 2022
 
 ## May 2022
