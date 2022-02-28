@@ -32,6 +32,10 @@ How would we like to support any proposal submissions in the F8 Auditability Cha
 
 ## <mark style="color:blue;">April 2022</mark>
 
+### Promoting Fund 9 Auditability Challenge
+
+Promote Fund 9 Auditability Challenge on social media to motivate voters
+
 ### Fund 9 Auditability Challenge Team (if voted)
 
 ## <mark style="color:blue;">May 2022</mark>
