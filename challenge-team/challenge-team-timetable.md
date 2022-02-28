@@ -44,7 +44,7 @@ Promote Fund 9 Auditability Challenge on social media to motivate voters
 
 ## <mark style="color:blue;">September 2022</mark>
 
-### ROI Retrospective (Post Execution)
+### Fund 8 - ROI Retrospective (Post Execution)
 
 * Keep in touch with your challenge cohort as they deliver on their proposals.
 * After three months, reflect on the achievements of your challenge cohort
