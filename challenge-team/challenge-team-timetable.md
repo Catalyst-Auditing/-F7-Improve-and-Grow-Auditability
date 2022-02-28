@@ -28,5 +28,11 @@ See [https://quality-assurance-dao.gitbook.io/f8-improve-and-grow-auditability/c
 
 ### Meeting - Submitted Proposals
 
+## April 2022
+
+## May 2022
+
+### On boarding Fund 8 Auditability Proposers
+
 
 
