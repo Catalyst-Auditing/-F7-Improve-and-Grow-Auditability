@@ -1,5 +1,7 @@
 # Challenge Team Timetable
 
+![Fund 8 Timetable](../.gitbook/assets/photo\_2022-02-26\_10-57-03.jpg)
+
 ## February 2022
 
 ### February 19th to 21st
