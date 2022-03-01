@@ -13,3 +13,7 @@ Register [here](https://docs.google.com/forms/d/e/1FAIpQLSfBdPQMocEehCCu4lWyH3rD
 The Auditability Challenge Team registered at 0000 UTC on 1st March 2022
 
 ## Challenge Ranking
+
+{% hint style="info" %}
+Submit your ranking [here](https://docs.google.com/forms/d/e/1FAIpQLScs-ZS4suj3kmfvmMFYVi0paewJg310mc9v0MsIp0OZsjpf3Q/viewform)
+{% endhint %}
