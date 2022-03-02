@@ -118,6 +118,6 @@ Please add your Challenge rankings here - https://docs.google.com/forms/d/e/1FAI
 
 ### Challenge Team Meeting Times
 
-1600 to 1700 UTC
-
-\\
+{% hint style="info" %}
+The group agreed to arrange future meeting between **1600 to 1700 UTC** if possible.
+{% endhint %}
