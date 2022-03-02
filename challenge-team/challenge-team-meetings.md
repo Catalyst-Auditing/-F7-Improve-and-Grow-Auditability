@@ -80,21 +80,19 @@ The main goal is to represent our challenge and allow proposers, community advis
 
 ### How can we assist to ensure the proposals can be executed? - Eric
 
-Improve & Grow Auditability is Unique from other Catalyst categories, as nothing can really be implemented without the support and permission of Catalyst. Prospers will usually not have access to all the data they may need from funded projects to execute their plans. We need a way to ensure that funded projects in this category can work with Catalyst to have the authority/permission to be implemented, or most of the money will be wasted on ideas that cannot be executed.
+Improve & Grow Auditability is Unique from other Catalyst categories, as nothing can really be implemented without the support and permission of Catalyst. Prospers will usually not have access to all the data they may need from funded projects to execute their plans. We need a way to ensure that funded projects in this category can work with Catalyst to have the authority / permission to be implemented, or most of the money will be wasted on ideas that cannot be executed.
 
-Eric – What is the relationship with IOG to ensure that the data from the community is available to be audited? Are we able to have a clear mandate so that if the community vote on a proposal for auditing, that is able to be implemented in whatever way – on ideascale or other platform. What is the commitment from IOG to enable the community to audit the proposals.
-
-Changing requirements etc.
+**Eric –** What is the relationship with IOG to ensure that the data from the community is available to be audited? Are we able to have a clear mandate so that if the community vote on a proposal for auditing, that is able to be implemented in whatever way – on ideascale or other platform. What is the commitment from IOG to enable the community to audit the proposals.
 
 ### Funded Proposal baseline - Thorsten
 
-#### Proposal stage:
+#### Proposal submission stage
 
-Quality criteria up front in proposals (meeting a standard related to a point of reference)
+At the proposal submission stage there should be up front quality criteria meeting a standard related to a point of reference.
 
-#### Funded stage:
+#### Funded stage
 
-“Comply or explain”
+At the Funded stage there should be some kind of compliance or explaiantion of
 
 “What are the funds you receive actually used for”
 
