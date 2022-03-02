@@ -5,6 +5,7 @@
 ## Challenge Team
 
 * [Challenge Team Process](challenge-team/challenge-team-process.md)
+* [Challenge Team Meetings](challenge-team/challenge-team-meetings.md)
 * [Challenge Team Members](challenge-team/challenge-team-members.md)
 * [Challenge Team Timetable](challenge-team/challenge-team-timetable.md)
 * [Challenge Fest & Ranking](challenge-team/challenge-fest-and-ranking.md)
