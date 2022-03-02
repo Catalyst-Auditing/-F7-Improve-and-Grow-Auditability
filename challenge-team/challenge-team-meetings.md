@@ -44,7 +44,9 @@ Stephen Whitenstall\\
 
 **Consensus** - A compromise solution is to contact each proposal submitted with a standard message that introduces the Challenge Team. We will offer general support and indicate that Challenge Team members may comment as individuals.
 
-The text of the standard messge will be inserted here.
+{% hint style="warning" %}
+The text of the standard message will be inserted here.
+{% endhint %}
 
 ### Fund 9 Challenge setting
 
@@ -56,7 +58,9 @@ The submission phase provides an opportunity to tweak the scope of the audit cha
 
 **Jo** - More clarity needed on return on intention
 
+{% hint style="warning" %}
 **Stephen** - Will share Google Doc to tweak F9 Challenge setting
+{% endhint %}
 
 ### Challenge Fest
 
