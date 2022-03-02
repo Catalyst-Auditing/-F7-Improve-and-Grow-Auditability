@@ -73,7 +73,7 @@ For further details see - [https://quality-assurance-dao.gitbook.io/f8-improve-a
 The main goal is to represent our challenge and allow proposers, community advisors and voters to gain a better understanding of the auditability challenge and its purpose. Each room will be recorded and uploaded to Swarm YouTube.
 
 {% hint style="warning" %}
-**Stephen** - Will prepare a short presentation based on the Auditability Insight Sharing Workshop.
+**Stephen** - Will prepare a short presentation based on the [Auditability Insight Sharing Workshop](https://quality-assurance-dao.gitbook.io/f8-improve-and-grow-auditability/insight-sharing/insight-sharing#auditability-insight-sharing-workshop).
 {% endhint %}
 
 
