@@ -38,11 +38,11 @@ This Fund 8 Challenge Team Process is taken from Kriss Baird's Slide Presentatio
 
 ### February 16th 2022
 
-
-
 {% embed url="https://youtu.be/R9k2MjFW5bQ" %}
 
 ### Slides
+
+[Link to Slides](https://docs.google.com/presentation/d/1e9XTyOzi3\_8dLVrxsD2QWsS7RHjP35VVbsESKS1jgLc/edit?usp=sharing)
 
 {% embed url="https://docs.google.com/presentation/d/1e9XTyOzi3_8dLVrxsD2QWsS7RHjP35VVbsESKS1jgLc/edit?usp=sharing" %}
 
