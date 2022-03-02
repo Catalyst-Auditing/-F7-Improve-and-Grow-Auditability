@@ -66,7 +66,7 @@ The submission phase provides an opportunity to tweak the scope of the audit cha
 
 ![](../.gitbook/assets/2022-03-02.png)
 
-We have registered and members will participate on Saturday, 5th March 2022 at 17.00 UTC.
+We have registered and members will participate on **Saturday, 5th March 2022 at 17.00 UTC**.
 
 For further details see - [https://quality-assurance-dao.gitbook.io/f8-improve-and-grow-auditability/challenge-team/challenge-fest](https://quality-assurance-dao.gitbook.io/f8-improve-and-grow-auditability/challenge-team/challenge-fest)
 
@@ -75,8 +75,6 @@ The main goal is to represent our challenge and allow proposers, community advis
 {% hint style="warning" %}
 **Stephen** - Will prepare a short presentation based on the [Auditability Insight Sharing Workshop](https://quality-assurance-dao.gitbook.io/f8-improve-and-grow-auditability/insight-sharing/insight-sharing#auditability-insight-sharing-workshop).
 {% endhint %}
-
-
 
 ### How can we assist to ensure the proposals can be executed? - Eric
 
@@ -110,12 +108,12 @@ The group discussed strategies to progress audit standards in Catalyst.
 
 Please add your Challenge rankings here - https://docs.google.com/forms/d/e/1FAIpQLScs-ZS4suj3kmfvmMFYVi0paewJg310mc9v0MsIp0OZsjpf3Q/viewform
 
-- Which Fund8 Challenge is the most important to support the advancement of the Cardano ecosystem today ?
-- Why do you think the Challenge you selected is important ?
-- How is this Challenge being addressed today by the Cardano ecosystem ?
-- What is needed to further meet this challenge in order to advance the Cardano ecosystem? Why ?
-- What should be done to improve the overall participation rate in Catalyst ?
-- Which not yet represented Challenges would you like see in the next funding rounds ?
+* Which Fund8 Challenge is the most important to support the advancement of the Cardano ecosystem today ?
+* Why do you think the Challenge you selected is important ?
+* How is this Challenge being addressed today by the Cardano ecosystem ?
+* What is needed to further meet this challenge in order to advance the Cardano ecosystem? Why ?
+* What should be done to improve the overall participation rate in Catalyst ?
+* Which not yet represented Challenges would you like see in the next funding rounds ?
 
 ### Auditability Brainstorming
 
