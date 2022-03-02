@@ -59,7 +59,7 @@ The submission phase provides an opportunity to tweak the scope of the audit cha
 **Jo** - More clarity needed on return on intention
 
 {% hint style="warning" %}
-**Stephen** - Will share Google Doc to tweak F9 Challenge setting
+**Stephen** - Here is a [Google Doc of the text](https://docs.google.com/document/d/1mkgLKq-0-vtL3h6qW7QLQU2krM653uBj920\_3501ltU/edit?usp=sharing) of the F9 Challenge setting to comment on.
 {% endhint %}
 
 ### Challenge Fest
