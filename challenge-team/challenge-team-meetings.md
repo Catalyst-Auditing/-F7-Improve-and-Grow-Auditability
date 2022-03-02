@@ -112,7 +112,9 @@ Please add your Challenge rankings here - https://docs.google.com/forms/d/e/1FAI
 
 ### Auditability Brainstorming
 
-Jo to create google doc to share
+{% hint style="warning" %}
+**Jo :** Will create Google doc to share Auditability Brainstorming.
+{% endhint %}
 
 ### Challenge Team Meeting Times
 
