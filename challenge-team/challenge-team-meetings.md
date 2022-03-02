@@ -50,15 +50,13 @@ The text of the standard messge will be inserted here.
 
 #### Improve and Grow Auditability
 
-See - [https://cardano.ideascale.com/c/idea/397157](https://cardano.ideascale.com/c/idea/397157)
+The Fund 9 Challenge setting for Improve & Grow Auditability has been submitted here - [https://cardano.ideascale.com/c/idea/397157](https://cardano.ideascale.com/c/idea/397157)
 
-Opportunity to tweak scope of Audit Challenge
+The submission phase provides an opportunity to tweak the scope of the audit challenge. A reference to governance oversight has been added to supplement the emphasis on auditing proposals.
 
-Need for audit of proposals
+**Jo** - More clarity needed on return on intention
 
-What is return on intention - Jo
-
-Share Google Doc F9 Challenge setting
+**Stephen** - Will share Google Doc to tweak F9 Challenge setting
 
 ### Challenge Fest
 
