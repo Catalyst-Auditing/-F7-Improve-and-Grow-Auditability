@@ -25,7 +25,7 @@ Stephen Whitenstall\
 
 ### F8 Proposal Submission Phase
 
-&#x20;How would we like to support any proposal submissions in the F8 Auditability Challenge ?
+> How would we like to support any proposal submissions in the F8 Auditability Challenge ?
 
 Thorsten - Building relationships. We are here to help. Opportunity to use knowledge of Challenge Team for feedback and improvements
 
