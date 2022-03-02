@@ -18,8 +18,7 @@ Eric Helms
 
 Naveed Urmani
 
-Stephen Whitenstall\
-
+Stephen Whitenstall\\
 
 ### Brief Introductions
 
@@ -27,29 +26,25 @@ Stephen Whitenstall\
 
 > How would we like to support any proposal submissions in the F8 Auditability Challenge ?
 
-Thorsten - Building relationships. We are here to help. Opportunity to use knowledge of Challenge Team for feedback and improvements
+**Thorsten** - We should build relationships. We are here to help. There is an opportunity to use knowledge of Challenge Team for feedback and improvements.
 
-\
-Naveed - Engaging early - mechanics of process - feedback as Challenge team. Contact immediately with an introduction message.
+**Naveed** - We need to engage early on and communicate the mechanics of the submssion process. Feedback as Challenge team and contact immediately with an introduction message.
+
+**Vanessa** - IOG are extending their submission deadline to 17th March 2022. It is not our role to evaluate proposals. So we should not comment as a team on quality of proposal just the mechanistic stuff. Be discreet and contract personally on errors.
+
+**Stephen** – The Challenge Team should only submit a brief message; “_You can can contact us if you need support_”. To supporting and advise not assess proposals. We can advise as individuals.
+
+**Eric** - We should send a statement out and offer our experience & suggestions. Contact proposers & network.
+
+**Jo** - We should look at each other proposals. Ideascale is open platform. If we are closer to the teams in the proposal stages we will get better quality proposals for the challenge on the execution stage. We shouldn’t worry about setting precident for the rest of the challenge teams.
+
+**Vanessa** - We should advise as individuals - as members of the community.
+
+**Thorsten** - Agree on picking up on errors. The quality of the Challenge should be individual - not speaking for the group. Intervene on basic quality.
+
+Consesnsus - A compromise&#x20;
 
 
-
-Vanessa - IOG extending submission deadline to 17th March 2022. Not our role to evaluate proposals. Don’t comment as a team on quality of proposal just the mechanistic stuff - be discreet - contract personally on errors.
-
-\
-Stephen – Only submit a brief message; “You can can contact us if you need support” Supporting and advising. Not asessing. Do advice as individuals.
-
-Eric - Send a statement out - offer experience & suggestions - contact & network&#x20;
-
-Jo - Look at each other proposals - Ideascale is open platform - contact first planning comments.
-
-Vanessa - should advise as individuals - as member of community
-
-Jo - From the brief: “Think of Challenge Teams as a project liaison role - you are the eyes and ears of the health of each challenge. You care about its outcomes and are willing to get up close to the winning teams in order to understand the nuances of their projects and communicate this back to the Catalyst community.”\
-\
-If we are closer to the teams in the proposal stages we will get better quality proposals for the challenge on the execution stage. We shouldn’t worry about setting precident for the rest of the challenge teams.
-
-Thorsten - Agree on pick up on errors - the quality of the Challenge  should be individual - not speaking for the group - intervene on basic quality&#x20;
 
 ### Fund 9 Challenge setting
 
@@ -57,7 +52,7 @@ Thorsten - Agree on pick up on errors - the quality of the Challenge  should be 
 
 See - [https://cardano.ideascale.com/c/idea/397157](https://cardano.ideascale.com/c/idea/397157)
 
-Opportunity to tweak scope of Audit Challenge&#x20;
+Opportunity to tweak scope of Audit Challenge
 
 Need for audit of proposals
 
@@ -74,7 +69,7 @@ We have registered and need to discuss who can participate on Saturday, 5th Marc
 
 ### How can we assist to ensure the proposals can be executed? - Eric
 
-Improve & Grow Auditability is Unique from other Catalyst categories, as nothing can really be implemented without the support and permission of Catalyst. Prospers will usually not have access to all the data they may need from funded projects to execute their plans. We need a way to ensure that funded projects in this category can work with Catalyst to have the authority/permission to be implemented, or most of the money will be wasted on ideas that cannot be executed.&#x20;
+Improve & Grow Auditability is Unique from other Catalyst categories, as nothing can really be implemented without the support and permission of Catalyst. Prospers will usually not have access to all the data they may need from funded projects to execute their plans. We need a way to ensure that funded projects in this category can work with Catalyst to have the authority/permission to be implemented, or most of the money will be wasted on ideas that cannot be executed.
 
 Eric – What is the relationship with IOG to ensure that the data from the community is available to be audited? Are we able to have a clear mandate so that if the community vote on a proposal for auditing, that is able to be implemented in whatever way – on ideascale or other platform. What is the commitment from IOG to enable the community to audit the proposals.
 
@@ -88,7 +83,7 @@ Quality criteria up front in proposals (meeting a standard related to a point of
 
 #### Funded stage:
 
-“Comply or explain”&#x20;
+“Comply or explain”
 
 “What are the funds you receive actually used for”
 
@@ -106,4 +101,4 @@ Jo to create google doc to share
 
 1600 to 1700 UTC
 
-\
+\\
