@@ -110,17 +110,12 @@ The group discussed strategies to progress audit standards in Catalyst.
 
 Please add your Challenge rankings here - https://docs.google.com/forms/d/e/1FAIpQLScs-ZS4suj3kmfvmMFYVi0paewJg310mc9v0MsIp0OZsjpf3Q/viewform
 
-Which Fund8 Challenge is the most important to support the advancement of the Cardano ecosystem today ?
-
-Why do you think the Challenge you selected is important ?
-
-How is this Challenge being addressed today by the Cardano ecosystem ?
-
-What is needed to further meet this challenge in order to advance the Cardano ecosystem? Why ?
-
-What should be done to improve the overall participation rate in Catalyst ?
-
-Which not yet represented Challenges would you like see in the next funding rounds ?
+- Which Fund8 Challenge is the most important to support the advancement of the Cardano ecosystem today ?
+- Why do you think the Challenge you selected is important ?
+- How is this Challenge being addressed today by the Cardano ecosystem ?
+- What is needed to further meet this challenge in order to advance the Cardano ecosystem? Why ?
+- What should be done to improve the overall participation rate in Catalyst ?
+- Which not yet represented Challenges would you like see in the next funding rounds ?
 
 ### Auditability Brainstorming
 
