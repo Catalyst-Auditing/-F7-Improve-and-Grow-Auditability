@@ -92,11 +92,15 @@ At the proposal submission stage there should be up front quality criteria meeti
 
 #### Funded stage
 
-At the Funded stage there should be some kind of compliance or explaiantion of
+At the Funded stage there should be some kind of compliance or explanation of
 
 “What are the funds you receive actually used for”
 
 Can we create a point of reference from previous funded proposals.
+
+{% hint style="info" %}
+The group discussed strategies to progress audit standards in Catalyst.
+{% endhint %}
 
 ### Challenge Ranking
 
