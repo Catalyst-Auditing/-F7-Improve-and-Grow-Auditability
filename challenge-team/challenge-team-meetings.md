@@ -42,9 +42,9 @@ Stephen Whitenstall\\
 
 **Thorsten** - Agree on picking up on errors. The quality of the Challenge should be individual - not speaking for the group. Intervene on basic quality.
 
-Consesnsus - A compromise&#x20;
+**Consensus** - A compromise solution is to contact each proposal submitted with a standard message that introduces the Challenge Team. We will offer general support and indicate that Challenge Team members may comment as individuals.
 
-
+The text of the standard messge will be inserted here.
 
 ### Fund 9 Challenge setting
 
