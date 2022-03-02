@@ -18,7 +18,7 @@ Eric Helms
 
 Naveed Urmani
 
-Stephen Whitenstall\\
+Stephen Whitenstall
 
 ### Brief Introductions
 
