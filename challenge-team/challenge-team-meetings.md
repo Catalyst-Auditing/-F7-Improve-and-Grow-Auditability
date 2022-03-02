@@ -104,6 +104,8 @@ The group discussed strategies to progress audit standards in Catalyst.
 
 ### Challenge Ranking
 
+"We have 24 Challenges this Funding Round and we would love to have your feedback about which Challenge is most important to you and why."
+
 Please add your Challenge rankings here - https://docs.google.com/forms/d/e/1FAIpQLScs-ZS4suj3kmfvmMFYVi0paewJg310mc9v0MsIp0OZsjpf3Q/viewform
 
 ### Auditability Brainstorming
