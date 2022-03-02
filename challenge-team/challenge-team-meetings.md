@@ -64,10 +64,19 @@ The submission phase provides an opportunity to tweak the scope of the audit cha
 
 ### Challenge Fest
 
-See - [https://quality-assurance-dao.gitbook.io/f8-improve-and-grow-auditability/challenge-team/challenge-fest](https://quality-assurance-dao.gitbook.io/f8-improve-and-grow-auditability/challenge-team/challenge-fest)
+![](../.gitbook/assets/2022-03-02.png)
 
-\
-We have registered and need to discuss who can participate on Saturday, 5th March 2022
+We have registered and members will participate on Saturday, 5th March 2022 at 17.00 UTC.
+
+For further details see - [https://quality-assurance-dao.gitbook.io/f8-improve-and-grow-auditability/challenge-team/challenge-fest](https://quality-assurance-dao.gitbook.io/f8-improve-and-grow-auditability/challenge-team/challenge-fest)
+
+The main goal is to represent our challenge and allow proposers, community advisors and voters to gain a better understanding of the auditability challenge and its purpose. Each room will be recorded and uploaded to Swarm YouTube.
+
+{% hint style="warning" %}
+**Stephen** - Will prepare a short presentation based on the Auditability Insight Sharing Workshop.
+{% endhint %}
+
+
 
 ### How can we assist to ensure the proposals can be executed? - Eric
 
