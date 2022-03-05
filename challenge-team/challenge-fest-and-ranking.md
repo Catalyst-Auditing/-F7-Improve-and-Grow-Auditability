@@ -4,6 +4,8 @@
 
 #### Saturday March 5th 2022
 
+![](../.gitbook/assets/2022-03-05.png)
+
 ## Presentation
 
 [Link to presentation](https://docs.google.com/presentation/d/1JYohFj\_Rl5N6wCJ0QbMnCoJIFYWPKrUAGeAZpyydEJs/edit?usp=sharing)

@@ -72,7 +72,7 @@ The Series is the product of an "[Insight Sharing Workshops - TCS](https://carda
 
 ### What is Insight Sharing ?
 
-![](<../.gitbook/assets/2022-02-21 (13).png>)
+![](<../.gitbook/assets/2022-02-21 (13) (1).png>)
 
 The Insight Sharing phase of each Catalyst Fund provides an opportunity to fill in your unique perspective on a challenge :
 
@@ -256,7 +256,7 @@ How the roadmap & metrics relate to addressing and solving the targeted problem.
 
 ### Auditability – Thank You
 
-![](<../.gitbook/assets/2022-02-21 (24) (1).png>)
+![](<../.gitbook/assets/2022-02-21 (24).png>)
 
 * Questions & Answers
 * Discussion
