@@ -1,6 +1,8 @@
 # Funded Proposals
 
-## Contact guidelines
+## Fund 7 Proposals
+
+### Contact guidelines
 
 #### Email sent 4th March 2022&#x20;
 
