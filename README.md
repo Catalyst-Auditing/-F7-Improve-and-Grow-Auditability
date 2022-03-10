@@ -9,3 +9,8 @@
 ## How to build a Challenge Team GitBook
 
 #### An overview of how this GitBook is laid out
+
+{% embed url="https://youtu.be/8rv_gHoUc6A" %}
+After Town Hall, 9th March 2022
+{% endembed %}
+
