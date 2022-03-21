@@ -6,7 +6,7 @@
 
 ### February 19th to 21st
 
-### Challenge Team Recruitment
+### F8 Challenge Team Recruitment
 
 {% hint style="info" %}
 See [https://quality-assurance-dao.gitbook.io/f8-improve-and-grow-auditability/challenge-team/challenge-team-members](https://quality-assurance-dao.gitbook.io/f8-improve-and-grow-auditability/challenge-team/challenge-team-members)
@@ -26,7 +26,7 @@ See [https://quality-assurance-dao.gitbook.io/f8-improve-and-grow-auditability/c
 
 ### March 1st, 1600 to 1700 UTC
 
-### Meeting - Submitted Proposals
+### F8 Meeting - Submitted Proposals
 
 How would we like to support any proposal submissions in the F8 Auditability Challenge ?
 
@@ -40,7 +40,7 @@ Promote Fund 9 Auditability Challenge on social media to motivate voters
 
 ## <mark style="color:blue;">May 2022</mark>
 
-### On boarding Fund 8 Auditability Proposers
+### F8 On boarding Fund 8 Auditability Proposers
 
 ## <mark style="color:blue;">September 2022</mark>
 
