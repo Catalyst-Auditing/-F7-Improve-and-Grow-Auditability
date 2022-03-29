@@ -18,22 +18,15 @@ description: >-
 
 **Action:** Jo. Email proposers to ask to share the data with a specific person on blended CT.
 
+## 3 - How do we communicate with F7 Funded proposal teams
 
+How do we communicate with those F7 Funded proposal teams: [https://docs.google.com/document/d/10gVKMCoZWoff3SHZt-tzvwwdI1uxWDXHlqqQhgJFHSc/edit?usp=sharing](https://docs.google.com/document/d/10gVKMCoZWoff3SHZt-tzvwwdI1uxWDXHlqqQhgJFHSc/edit?usp=sharing)
 
-\
-\
-
-
-1. How do we communicate with those F7 Funded proposal teams: [https://docs.google.com/document/d/10gVKMCoZWoff3SHZt-tzvwwdI1uxWDXHlqqQhgJFHSc/edit?usp=sharing](https://docs.google.com/document/d/10gVKMCoZWoff3SHZt-tzvwwdI1uxWDXHlqqQhgJFHSc/edit?usp=sharing)
-
-&#x20;   Follow guidelines for communicating with Challenge Teams.
-
-\
-
+&#x20;Follow guidelines for communicating with Challenge Teams.
 
 Stephen – Should presentations be private or public?
 
-&#x20;   Agreement: Private
+&#x20;Agreement: Private
 
 Jo – Should we do these 1 on 1?&#x20;
 
@@ -61,15 +54,9 @@ emphasis?
 
 the challenge.
 
-\
-
-
-Questions for funded proposers:&#x20;
+## 3 - Questions for funded proposers:&#x20;
 
 Thorsten – Summary – What have you done, what are you doing, what are your blockers?
-
-\
-
 
 1. What is about? (first time only)
 2. How helpful is the challenge brief? (first time only)
@@ -81,51 +68,31 @@ Thorsten – Summary – What have you done, what are you doing, what are your b
 8. Are you on track to deliver?
 9. Is this ending in 3 months?
 
-\
-
-
 Agreement: Each of us collects this data and information from the 1-to-1’s.
-
-\
-
 
 Stephen – Suggestion 3 ; This Challenge team takes a ‘setting best practice approach’ “this is how auditability challenge teams work”.&#x20;
 
-\
+## 4 - How do we communicate with those F8 proposers:&#x20;
 
-
-4\.   How do we communicate with those F8 proposers:&#x20;
-
-\
-
-
-Action: Stephen to draft something and post in telegram a sentence for each submitted F8 proposal. Post that under real proposals.
-
-\
+Action: Stephen to draft something and post in telegram a sentence for each submitted F8 proposal. Post that under real proposals.\
 
 
 “We are the auditability challenge team and here are some contacts for you to reach out too.”
 
-\
-
-
-5\.   Next week there is a round-table about Challenge Teams.&#x20;
+## 5 - Next week there is a round-table about Challenge Teams.&#x20;
 
 \
 To be raised at round-table:\
-\
 
 
-1\) Timing (length of time the proposals are going to take to implement) is a challenge. Do we need a built in end-date.\
-\
-
+1\) Timing (length of time the proposals are going to take to implement) is a challenge. Do we need a built in end-date.
 
 2\) How is the challenge team resourced is a challenge if the proposals go longer.&#x20;
 
 \
 
 
-6\.   Reporting Challenge Teams.&#x20;
+## 6 - Reporting Challenge Teams.&#x20;
 
 a)    We need to think about how we bring this information together.
 
@@ -134,45 +101,21 @@ b)    Objective of reporting?
 \
 Table for next agenda: What is it we as a CT are actually achieving for the community?
 
-\
-
-
 Action: Jo to set up recurring appointments. Bi-weekly this time 1800UTC. Leave it named F7 for now (to be coordinated not to clash with Audit Circle or Community Governance Oversight – timing/dates of which are being confirmed).
-
-\
-
 
 —————————————————————————————————————————
 
-\
-
-
-REFERENCE: Notes from previous Challenge Team meetings/communications
-
-\
-
+## Notes from previous Challenge Team communications
 
 We are being tasked with presenting the challenge (during the INNOVATION phase), onboarding and building some rapport with funded-teams (at the start of EXECUTION phase) so you are in a position to report the outcomes to the community in 3 months time (POST-EXECUTION)
 
-\
-
-
 Key to this pilot is that Challenge Teams are able to help maximize the impact of the challenge and surface outcomes of the funded-projects.&#x20;
-
-\
-
 
 Whether you believe the challenge is being successfully addressed during the scope of your engagement. &#x20;
 
-\
-
-
 Payment is contingent on completion of the following three deliverables.
 
-\
-
-
-Key Deliverables
+### Key Deliverables
 
 &#x20;   1\.    Town Hall Presentation (Fund Launch) - 2 hours 
 
@@ -181,21 +124,11 @@ Key Deliverables
 &#x20;   3\.    ROI Retrospective (Post Execution) - 15 hours
 
 \
-
-
 You should consider yourselves to be a support to the teams, and if you choose to participate in more of a mentoring capacity then that is up to you. Teams may feel more comfortable with explaining the issues or kinks in the road to project completion with you once you’ve built some rapport. After all - we’re all working towards common goals!
-
-\
-
 
 Each challenge should have its own ‘health metrics’ or key performance indicators to measure whether or not the challenge is on track to achieve the return on intention the challenge initially set out to address.
 
-\
-
-
-Challenge Teams may be the ones to define KPIs or at least review whether or not the outcome metrics and indicators are appropriate to the challenge.
-
-\
+Challenge Teams may be the ones to define KPIs or at least review whether or not the outcome metrics and indicators are appropriate to the challenge.\
 
 
 If there is an issue or anything the Challenge Teams want to share with the Catalyst Team&#x20;
@@ -216,56 +149,35 @@ Challenge Team reporting format
 * Concise understanding of technical aspects or clear request for assets of this type
 * Risk management assessment
 
-\
-\
-\
+### What applications will provide the most Value?
 
-
-What applications will provide the most Value?
-
-\
-
-
-Why is this Important?
+#### Why is this Important?
 
 Quality Decentralized applications and Integrations will increase utility and adoption of Cardano Network.::: Not addressing this challenge will slow down adoption from end users and developers.&#x20;
 
-\
-
-
-What would be good outcomes?
+#### What would be good outcomes?
 
 \-Novel and viable applications get built on top of Cardano attracting users.&#x20;
 
 \-Integrations manage to pull in more adoption.
 
-\
-
-
-What do good solutions look like?
+#### What do good solutions look like?
 
 \-Applications that deliver the highest amount of value with the least amount of technical sophistication.&#x20;
 
 \-Applications that are most profitable and in demand.
 
-\
-
-
-Who stands to benefit most from the challenge being addressed?
+#### Who stands to benefit most from the challenge being addressed?
 
 \-Developers and end users benefit equally when addressing these challenges.
 
-\
+#### Dapps and Intergrations – CT Survey
 
-
-Dapps and Intergrations – CT Survey of proposers/response/analysis Example:
+&#x20;Dapps and Intergrations – CT Survey of proposers/response/analysis Example:
 
 [https://docs.google.com/presentation/d/1exxB2ZFkeAbFYcHa69v9ifEmy0I5CE6TpgFlgs\_8Ofk/edit#slide=id.p](https://docs.google.com/presentation/d/1exxB2ZFkeAbFYcHa69v9ifEmy0I5CE6TpgFlgs\_8Ofk/edit#slide=id.p)
 
-\
-
-
-02 Feb, 05:10
+### 02 Feb, 05:10
 
 Proposals which are engaged and impactful.
 

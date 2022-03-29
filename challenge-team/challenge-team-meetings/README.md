@@ -64,7 +64,7 @@ The submission phase provides an opportunity to tweak the scope of the audit cha
 
 ### Challenge Fest
 
-![](../.gitbook/assets/2022-03-02.png)
+![](../../.gitbook/assets/2022-03-02.png)
 
 We have registered and members will participate on **Saturday, 5th March 2022 at 17.00 UTC**.
 
@@ -102,7 +102,7 @@ The group discussed strategies to progress audit standards in Catalyst.
 
 ### Challenge Ranking
 
-![](<../.gitbook/assets/2022-03-02 (1).png>)
+![](<../../.gitbook/assets/2022-03-02 (1).png>)
 
 "We have 24 Challenges this Funding Round and we would love to have your feedback about which Challenge is most important to you and why."
 
