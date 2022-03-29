@@ -6,6 +6,8 @@ description: >-
 
 # March 10th, 2022
 
+Source : [https://docs.google.com/document/d/10gVKMCoZWoff3SHZt-tzvwwdI1uxWDXHlqqQhgJFHSc/edit?usp=sharing](https://docs.google.com/document/d/10gVKMCoZWoff3SHZt-tzvwwdI1uxWDXHlqqQhgJFHSc/edit?usp=sharing)
+
 ## 1 - Do we want to blend CT’s:&#x20;
 
 **Agreement:** Yes, The F8 Challenge Team is happy to blend F7/F8 and also work on F9 Challenge Setting brief
@@ -74,23 +76,17 @@ Stephen – Suggestion 3 ; This Challenge team takes a ‘setting best practice 
 
 ## 4 - How do we communicate with those F8 proposers:&#x20;
 
-Action: Stephen to draft something and post in telegram a sentence for each submitted F8 proposal. Post that under real proposals.\
-
+Action: Stephen to draft something and post in telegram a sentence for each submitted F8 proposal. Post that under real proposals.
 
 “We are the auditability challenge team and here are some contacts for you to reach out too.”
 
 ## 5 - Next week there is a round-table about Challenge Teams.&#x20;
 
-\
-To be raised at round-table:\
-
+To be raised at round-table:
 
 1\) Timing (length of time the proposals are going to take to implement) is a challenge. Do we need a built in end-date.
 
 2\) How is the challenge team resourced is a challenge if the proposals go longer.&#x20;
-
-\
-
 
 ## 6 - Reporting Challenge Teams.&#x20;
 
@@ -98,12 +94,9 @@ a)    We need to think about how we bring this information together.
 
 b)    Objective of reporting?
 
-\
 Table for next agenda: What is it we as a CT are actually achieving for the community?
 
 Action: Jo to set up recurring appointments. Bi-weekly this time 1800UTC. Leave it named F7 for now (to be coordinated not to clash with Audit Circle or Community Governance Oversight – timing/dates of which are being confirmed).
-
-—————————————————————————————————————————
 
 ## Notes from previous Challenge Team communications
 
@@ -128,8 +121,7 @@ You should consider yourselves to be a support to the teams, and if you choose t
 
 Each challenge should have its own ‘health metrics’ or key performance indicators to measure whether or not the challenge is on track to achieve the return on intention the challenge initially set out to address.
 
-Challenge Teams may be the ones to define KPIs or at least review whether or not the outcome metrics and indicators are appropriate to the challenge.\
-
+Challenge Teams may be the ones to define KPIs or at least review whether or not the outcome metrics and indicators are appropriate to the challenge.
 
 If there is an issue or anything the Challenge Teams want to share with the Catalyst Team&#x20;
 
