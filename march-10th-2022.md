@@ -1,6 +1,10 @@
-# Page 1
+---
+description: >-
+  Discussion Merge F7+Funded and F8 Unfunded proposers and work with them as a
+  team together?
+---
 
-#### Discussion Merge F7+Funded and F8 Unfunded proposers and work with them as a team together? 
+# March 10th, 2022
 
 ## 1 - Do we want to blend CT’s:&#x20;
 
