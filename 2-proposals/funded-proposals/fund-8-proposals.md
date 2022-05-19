@@ -2,9 +2,10 @@
 
 ## List of funded proposals
 
-| Proposal                                                                    | Ideascale ID    | Challenge Team Member |
-| --------------------------------------------------------------------------- | --------------- | --------------------- |
-| [WADA Qualitative Audit Pilot](https://cardano.ideascale.com/c/idea/402487) | @callyfromauron |                       |
+| Proposal                                                                          | Ideascale ID    | Challenge Team Member |
+| --------------------------------------------------------------------------------- | --------------- | --------------------- |
+| [WADA Qualitative Audit Pilot](https://cardano.ideascale.com/c/idea/402487)       | @callyfromauron |                       |
+| [cReport - Catalyst analyzer & KPIs](https://cardano.ideascale.com/c/idea/402301) | @bitmaster.sg   |                       |
 
 ## Proof of Life
 
