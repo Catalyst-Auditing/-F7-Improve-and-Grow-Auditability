@@ -1,6 +1,6 @@
 # Fund 7 Proposals
 
-## List of funded proposals
+## One to One Allocation
 
 | Proposal                                                                           | Ideascale ID  | Challenge Team Member  |
 | ---------------------------------------------------------------------------------- | ------------- | ---------------------- |
