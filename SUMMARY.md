@@ -26,6 +26,7 @@
 * [Submitted Proposals](2-proposals/submitted-proposals.md)
 * [Funded Proposals](2-proposals/funded-proposals/README.md)
   * [Fund 7 Proposals](2-proposals/funded-proposals/fund-7-proposals.md)
+  * [Fund 8 Proposals](2-proposals/funded-proposals/fund-8-proposals.md)
 
 ## 3-Retrospective
 
