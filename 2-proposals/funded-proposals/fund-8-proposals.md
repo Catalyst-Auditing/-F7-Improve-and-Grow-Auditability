@@ -1,15 +1,12 @@
 # Fund 8 Proposals
 
-## One to One Allocation
+## List of funded proposals
 
-| Proposal                                                                           | Ideascale ID  | Challenge Team Member  |
-| ---------------------------------------------------------------------------------- | ------------- | ---------------------- |
-| [Translation for Proposal API DATA](https://cardano.ideascale.com/c/idea/383962)   | @profd2004    |                        |
-| [Progress and KPI reporting tool](https://cardano.ideascale.com/c/idea/382425)     | @pace         |                        |
-| [2MIN REVIEW Integrated Platform](https://cardano.ideascale.com/c/idea/384807)     | @DucTIGER     |                        |
-| [2MIN REVIEW Integrated Platform](https://cardano.ideascale.com/c/idea/384807)     | @twomin       |                        |
-| [Impact Measurements Tool - research](https://cardano.ideascale.com/c/idea/383628) | @raz          | Jo Allum               |
-| [DAO-NET: Auditor DAO](https://cardano.ideascale.com/c/idea/381404)                | @dwayne       |                        |
-| [Community Governance Oversight](https://cardano.ideascale.com/c/idea/383517)      | @swhitenstall |                        |
-| [Catalyst Audit Circle](https://cardano.ideascale.com/c/idea/381354)               | @swhitenstall |                        |
-
+| Proposal                                                                           | Ideascale ID             | Challenge Team Member |
+| ---------------------------------------------------------------------------------- | ------------------------ | --------------------- |
+| [WADA Qualitative Audit Pilot](https://cardano.ideascale.com/c/idea/402487)        | @callyfromauron          |                       |
+| [cReport - Catalyst analyzer & KPIs](https://cardano.ideascale.com/c/idea/402301)  | @bitmaster.sg            |                       |
+| [Wolfram Governance Analytics](https://cardano.ideascale.com/c/idea/400301)        | @wolfram.blockchain.labs |                       |
+| [Auditing African Proposals, By Wada](https://cardano.ideascale.com/c/idea/396595) | @joshf                   |                       |
+| [Community Governance Oversight](https://cardano.ideascale.com/c/idea/398225)      | @swhitenstall            |                       |
+| [Project Managment & Track Directory](https://cardano.ideascale.com/c/idea/399215) | @otaviolima              |                       |
