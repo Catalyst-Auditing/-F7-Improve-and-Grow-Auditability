@@ -2,9 +2,9 @@
 
 ## List of funded proposals
 
-| Proposal                                                                         | Ideascale ID | Challenge Team Member |
-| -------------------------------------------------------------------------------- | ------------ | --------------------- |
-| [Translation for Proposal API DATA](https://cardano.ideascale.com/c/idea/383962) | @profd2004   |                       |
+| Proposal                                                                    | Ideascale ID    | Challenge Team Member |
+| --------------------------------------------------------------------------- | --------------- | --------------------- |
+| [WADA Qualitative Audit Pilot](https://cardano.ideascale.com/c/idea/402487) | @callyfromauron |                       |
 
 ## Proof of Life
 
