@@ -13,8 +13,10 @@
 | [Community Governance Oversight](https://cardano.ideascale.com/c/idea/383517)      | @swhitenstall |                       |
 | [Catalyst Audit Circle](https://cardano.ideascale.com/c/idea/381354)               | @swhitenstall |                       |
 
-## Schedule
+## Proof of Life
 
-### Proof of Life
+[Fund8 Challenge Teams Session Schedule](https://docs.google.com/spreadsheets/d/1bIZHfNYeSJSSpSXfpDG9Ny4f6Gm9aTOexL1DuqJfwgU/edit?usp=sharing)&#x20;
 
-[Fund8 Challenge Teams Session Schedule](https://docs.google.com/spreadsheets/d/1bIZHfNYeSJSSpSXfpDG9Ny4f6Gm9aTOexL1DuqJfwgU/edit?usp=sharing)
+## Funded Projects Reporting
+
+[Project Catalyst - Funded Projects Reporting (public MVP)](https://docs.google.com/spreadsheets/d/1bfnWFa94Y7Zj0G7dtpo9W1nAYGovJbswipxiHT4UE3g/edit?usp=sharing)
