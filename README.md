@@ -1,10 +1,8 @@
 ---
-description: Funds 6, 7 & 8
+description: Project Catalyst Funds 6, 7 & 8
 ---
 
 # Welcome to the Improve and Grow Auditability Challenge
-
-## &#x20;
 
 ![](<.gitbook/assets/2022-03-09 (1).png>)
 
