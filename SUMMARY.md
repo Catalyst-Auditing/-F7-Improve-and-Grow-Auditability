@@ -1,6 +1,6 @@
 # Table of contents
 
-* [Overview](README.md)
+* [Welcome to the Improve and Grow Auditability Challenge](README.md)
 * [F8 - Improve and Grow Auditability](<README (1).md>)
 
 ## Challenge Team
