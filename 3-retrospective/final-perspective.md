@@ -4,11 +4,10 @@ description: Auditability Challenge Close out reports
 
 # Final perspective
 
-## Auditability F7 Challenge close-out report
+## F7 Auditability Challenge close-out video
 
 {% embed url="https://youtu.be/xRUv6IbwbNo" %}
 
-Written report:
+### F7 written close-out report:
 
-{% file src="../.gitbook/assets/Fund 7 Auditability challenge close-out (1).pdf" %}
-
+{% embed url="https://drive.google.com/file/d/1lpBoZ6I91_H9cpAwP1h1685qEzE4OKfF/view?usp=share_link" %}
